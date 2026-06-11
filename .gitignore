@@ -1,2 +1,6 @@
 # Excel temporary files
 ~$*.xlsx
+
+# IDEs
+.vscode/
+.idea/
